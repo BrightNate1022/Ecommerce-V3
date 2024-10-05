@@ -57,7 +57,7 @@ export default async function Home() {
     <div className="container-flex py-5 mx-auto px-auto " style={{marginTop:"9%",marginBottom:"5%"}}>
       <div className="row" style={{marginBottom:"8%"}}>
       
-      <div className=" text-white text-start fs-1 fw-bold lh-lg float-start text-break me-5  ps-5 py-5 position-relative col-sm-12 col-xl-5 lh-lg">
+      <div className=" text-white text-start fs-1 fw-bold lh-md float-start text-break me-5  ps-5 py-5 position-relative col-sm-12 col-xl-5 lh-md">
       Welcome to our ultimate shopping destination, where you can discover EVERYTHING you need for your daily life at unbeatable prices. From trendy fashion to cutting-edge electronics, we've got you covered. Our store is your one-stop shop, just like the diligent factory worker in the picture, ensuring top-notch quality and efficiency. Dive into our extensive range of products and enjoy unparalleled convenience. Shop with us to make your shopping experience smooth and budget-friendly.
          </div>
       <Image src={factoryimg} className="ms-auto d-none d-xl-block float-end me-5 pt-5 pb-5 ms-5 w-50 h-50 col-5-lg " alt="Background Image" width={1000} height={1500}/>
