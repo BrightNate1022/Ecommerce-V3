@@ -3,7 +3,7 @@ import React from 'react'
 export default function Contact() {
   return (
     <>
-    <div className='container text-white' style={{marginTop:"8vh"}}>
+    <div className='container text-white' style={{marginTop:"15vh"}}>
         <table className='table table-dark table-striped' style={{height:"100vh"}}>
             <thead className='fw-bold fs-1' > 
                 Contact us by
