@@ -16,7 +16,7 @@ export default async function Home() {
   await ProductsGet() 
   return (
     <>
-    <div className="container-flex" style={{marginTop:"8vh"}}>
+    <div className="container-flex" style={{marginTop:"15vh"}}>
       <h1 className="text-decoration-underline text-white fw-bold mb-3 ms-3">Featured Products</h1>
       <div className="row mx-auto">
       <div className="col-12 col-xl">
